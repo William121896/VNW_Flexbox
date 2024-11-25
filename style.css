@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 20vh;
+  border: solid red;
+  background-color: #ff0000;
+  background-color: rgb(100, 0, 0);
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  background-color: pink;
+  width: 30vw;
+  width: 50%;
+}
+
+ul {
+  border: solid green;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  font-size: 16px;
+  font-size: 1rem;
+  font-size: 1em;
+  font-size: 32px;
+  font-size: 2rem;
+  font-size: 2em;
+}/*# sourceMappingURL=style.css.map */
